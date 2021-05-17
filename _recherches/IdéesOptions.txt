@@ -1,0 +1,12 @@
+Nombre d'adversaires 1-2-3 (voire +)
+couleur des decks adverses Blanc Gris Gris foncé
+Nombre de cartes de départ : 5 à 20
+Règles alternatives
+Mode : Libre-Points
+Passer son tour après pioche : Oui-Non
+Cumul des +2 : Oui-Non
+
+
+Mode points : se joue par manches, le premier à atteindre 500 points gagne
+on obtient des points en fonction des cartes des autres joueurs en gagnant des manches
+
